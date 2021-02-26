@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Tables
-parent: UI Components
-nav_order: 4
+parent: Excel
+nav_order: 1
+permalink: /tables 
 ---
 
 # Tables

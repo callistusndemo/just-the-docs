@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Color
-parent: Utilities
+parent: Data Visualization
+permalink: /color 
 ---
 
 # Color Utilities
